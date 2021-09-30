@@ -1,0 +1,1 @@
+var airport = {name: "Pearson", location: "Toronto", activeTerminals: 2, totalTerminals: 4, hasParking: true, hasPublicTransit: true, airlinesT1: ["Air Canada", "Air India", "United Airlines", "Copa Airlines"], airlinesT3: ["Air France", "Air Transat", "British Airlines", "Delta", "Swoop", "Westjet"]};
