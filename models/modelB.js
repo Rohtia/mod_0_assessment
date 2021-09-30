@@ -1,0 +1,1 @@
+var vehicle= {make: "Nissan", model: "Versa Note", year: 2017, numPassengers: 5, hasHatch: true, automatic: true, colour: ["Paint is black", "Interior is grey"], features: ["bluetooth", "CD player", "cruise control", "seat warmers"]};
